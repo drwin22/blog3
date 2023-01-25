@@ -1,0 +1,14 @@
+---
+layout: post
+title: "2- Education!"
+date: 2017-04-06 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img:  # Add image post (optional)
+---
+## Education: 
+
+Mr. Nguyen completed his Ed D from St Mary’s University of Minnesota in 2007.   The education he received has provided him opportunities to explore a variety of educational philosophies and helped him develop his own based on current research and practices, supplemented by his personal experiences.  The success he has with students as he practices what he learns.  This is where Francois excels, education backed by real life experiences.  
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
