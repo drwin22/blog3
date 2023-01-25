@@ -3,7 +3,7 @@ layout: post
 title: Related Skills
 date: 2017-09-10 00:00:00 +0300
 description: Related skills for professional background # Add post description (optional)
-img: js-1.png # Add image post (optional)
+img: p5.jpg # Add image post (optional)
 tags: [Js, Conference] # add tag
 ---
 ## Related Skills: 
